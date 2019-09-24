@@ -15,3 +15,23 @@ main {
   margin-right: auto;
   width: 50%;
 }
+
+.contactUs {
+  text-align: center;
+  color: white;
+  font-family: "Courier New", Courier, monospace;
+  font-size: 20px;
+  font-style: normal;
+}
+
+.emailAddress {
+  text-align: center;
+  color: white;
+  font-family: "Courier New", Courier, monospace;
+  font-size: 20px;
+  font-style: normal;
+}
+
+.emailAddress:hover {
+  color: rgb(182, 216, 230);
+}
