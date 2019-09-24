@@ -1,3 +1,14 @@
+body {
+  background-color: black;
+  margin: 0;
+}
+
+main {
+  overflow: hidden;
+  width: 100vw;
+  height: 100vh;
+}
+
 .centerImg {
   display: block;
   margin-left: auto;
